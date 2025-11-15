@@ -100,3 +100,9 @@ DerivedData/
 *.tar.gz
 *.rar
 
+
+# Video files (use GitHub Releases instead)
+*.mp4
+*.mov
+*.avi
+docs/assets/videos/
