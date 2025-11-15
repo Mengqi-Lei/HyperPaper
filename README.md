@@ -43,7 +43,7 @@ HyperPaper is an intelligent PDF reader designed specifically for academic resea
 - **Context Understanding**: Provides accurate answers based on selected content
 - **Markdown Rendering**: Supports LaTeX formulas, code blocks, and rich formats
 
-![AI Q&A Feature](docs/assets/function-QA.jpg)
+<img src="docs/assets/function-QA.jpg" alt="AI Q&A Feature" style="box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15), 0 2px 4px rgba(0, 0, 0, 0.1); border-radius: 8px; margin: 16px 0; max-width: 100%; height: auto;">
 
 ### 📸 Powerful OCR Capabilities
 - **Local OCR**: Local recognition engine based on Pix2Text, protecting privacy
@@ -57,7 +57,7 @@ HyperPaper is an intelligent PDF reader designed specifically for academic resea
 - **Target Language Selection**: Customize translation target language in preferences
 - **Silent Updates**: Translation results are automatically updated without manual refresh
 
-![Translation Feature](docs/assets/function-translate.jpg)
+<img src="docs/assets/function-translate.jpg" alt="Translation Feature" style="box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15), 0 2px 4px rgba(0, 0, 0, 0.1); border-radius: 8px; margin: 16px 0; max-width: 100%; height: auto;">
 
 ### ✏️ Rich Annotation System
 - **Text Annotation**: Highlight, underline, strikethrough
@@ -67,7 +67,7 @@ HyperPaper is an intelligent PDF reader designed specifically for academic resea
 - **Color Customization**: Rich color selection, personalized annotations
 - **Secondary Editing**: All annotations support editing and deletion
 
-![Annotation Feature](docs/assets/function-notes.jpg)
+<img src="docs/assets/function-notes.jpg" alt="Annotation Feature" style="box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15), 0 2px 4px rgba(0, 0, 0, 0.1); border-radius: 8px; margin: 16px 0; max-width: 100%; height: auto;">
 
 ### 🎨 Modern UI Design
 - **Liquid Glass Style**: Semi-transparent liquid glass effect, visually elegant

@@ -43,7 +43,7 @@ HyperPaper 是一个专为学术研究设计的智能 PDF 阅读器，集成了 
 - **上下文理解**：基于选中内容提供精准回答
 - **Markdown 渲染**：支持 LaTeX 公式、代码块等丰富格式
 
-![AI 问答功能](../assets/function-QA.jpg)
+<img src="../assets/function-QA.jpg" alt="AI 问答功能" style="box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15), 0 2px 4px rgba(0, 0, 0, 0.1); border-radius: 8px; margin: 16px 0; max-width: 100%; height: auto;">
 
 ### 📸 强大的 OCR 能力
 - **本地 OCR**：基于 Pix2Text 的本地识别引擎，保护隐私
@@ -57,7 +57,7 @@ HyperPaper 是一个专为学术研究设计的智能 PDF 阅读器，集成了 
 - **目标语言选择**：在偏好设置中自定义翻译目标语言
 - **静默更新**：翻译结果自动更新，无需手动刷新
 
-![翻译功能](../assets/function-translate.jpg)
+<img src="../assets/function-translate.jpg" alt="翻译功能" style="box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15), 0 2px 4px rgba(0, 0, 0, 0.1); border-radius: 8px; margin: 16px 0; max-width: 100%; height: auto;">
 
 ### ✏️ 丰富的注释系统
 - **文本标注**：高亮、下划线、删除线
@@ -67,7 +67,7 @@ HyperPaper 是一个专为学术研究设计的智能 PDF 阅读器，集成了 
 - **颜色自定义**：丰富的颜色选择，个性化标注
 - **二次编辑**：所有注释支持编辑和删除
 
-![批注功能](../assets/function-notes.jpg)
+<img src="../assets/function-notes.jpg" alt="批注功能" style="box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15), 0 2px 4px rgba(0, 0, 0, 0.1); border-radius: 8px; margin: 16px 0; max-width: 100%; height: auto;">
 
 ### 🎨 现代化 UI 设计
 - **Liquid Glass 风格**：半透明液态玻璃效果，视觉优雅
