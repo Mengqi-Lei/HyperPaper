@@ -82,7 +82,7 @@ HyperPaper is an intelligent PDF reader designed specifically for academic resea
 
 Watch how HyperPaper's AI-powered features work:
 
-<video src="docs/assets/videos/hyperpaper-AI.mp4" controls width="100%"></video>
+https://github.com/user-attachments/assets/hyperpaper-AI.mp4
 
 *Features shown: Regional Q&A, OCR recognition, intelligent translation, and formula processing*
 
@@ -90,7 +90,7 @@ Watch how HyperPaper's AI-powered features work:
 
 See HyperPaper's powerful annotation system in action:
 
-<video src="docs/assets/videos/hyperpaper-notes.mp4" controls width="100%"></video>
+https://github.com/user-attachments/assets/hyperpaper-notes.mp4
 
 *Features shown: Text annotation, highlighting, note-taking, and annotation management*
 
