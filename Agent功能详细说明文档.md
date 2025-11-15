@@ -1,8 +1,9 @@
 # HyperPaper Agent 功能详细文档
 
+**Language / 语言**: [🇨🇳 中文](Agent功能详细说明文档.md) | [🇬🇧 English](Agent_Feature_Documentation_EN.md)
+
 **版本**: v1.0  
-**最后更新**: 2025-01-XX  
-**作者**: HyperPaper Team
+**作者**: Mengqi Lei
 
 ---
 

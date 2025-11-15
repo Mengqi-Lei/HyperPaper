@@ -1,5 +1,7 @@
 # 🔑 API 配置指南
 
+**Language / 语言**: [🇨🇳 中文](API_CONFIGURATION.md) | [🇬🇧 English](API_CONFIGURATION_EN.md)
+
 在使用 HyperPaper 之前，你需要配置 API Key 才能使用 AI 问答和翻译功能。
 
 ## 📋 配置步骤
@@ -47,8 +49,6 @@ export HYPERPAPER_API_KEY="sk-你的API密钥"
 ## ⚠️ 安全提示
 
 - **不要将包含真实 API Key 的代码提交到公共仓库**
-- 如果意外提交了 API Key，请立即在 API 控制台中撤销该 Key
-- 建议为不同环境使用不同的 API Key
 - API Key 具有访问权限，请妥善保管
 
 ## 🔍 验证配置

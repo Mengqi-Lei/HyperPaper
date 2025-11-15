@@ -1,5 +1,7 @@
 # 🚀 快速开始指南
 
+**Language / 语言**: [🇨🇳 中文](QUICK_START.md) | [🇬🇧 English](QUICK_START_EN.md)
+
 欢迎使用 HyperPaper！本指南将帮助你在 5 分钟内完成配置并开始使用。
 
 ## 📋 前置要求

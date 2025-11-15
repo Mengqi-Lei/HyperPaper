@@ -1,5 +1,7 @@
 # 贡献指南
 
+**Language / 语言**: [🇨🇳 中文](CONTRIBUTING.md) | [🇬🇧 English](CONTRIBUTING_EN.md)
+
 感谢你考虑为 HyperPaper 项目做出贡献！
 
 ## 如何贡献

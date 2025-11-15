@@ -1,4 +1,8 @@
-# 📄 HyperPaper
+<div align="center">
+
+# 🪄 HyperPaper
+
+</div>
 
 <div align="center">
 
@@ -6,11 +10,11 @@
 
 *让阅读论文变得简单、高效、智能*
 
-[![Swift](https://img.shields.io/badge/Swift-5.9+-orange.svg)](https://swift.org)
-[![Platform](https://img.shields.io/badge/Platform-macOS-lightgrey.svg)](https://www.apple.com/macos)
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![Swift](https://img.shields.io/badge/Swift-5.9+-orange.svg)](https://swift.org) [![Platform](https://img.shields.io/badge/Platform-macOS-lightgrey.svg)](https://www.apple.com/macos) [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 [特性](#-核心特性) • [快速开始](#-快速开始) • [功能演示](#-功能演示) • [技术栈](#-技术栈) • [配置](#-配置) • [贡献](#-贡献)
+
+**Language / 语言**: [🇨🇳 中文](README.md) | [🇬🇧 English](README_EN.md)
 
 </div>
 
@@ -33,8 +37,8 @@ HyperPaper 是一个专为学术研究设计的智能 PDF 阅读器，集成了 
 
 ## 🚀 核心特性
 
-### 🧠 AI 驱动的智能问答
-- **区域问答**：选中任意区域，直接提问，AI 为你解答
+### ✨ AI 驱动的智能问答
+- **区域问答**：选中任意区域，直接翻译或提问，AI 为你解答
 - **多模型支持**：支持 Qwen 系列等多种 AI 模型
 - **上下文理解**：基于选中内容提供精准回答
 - **Markdown 渲染**：支持 LaTeX 公式、代码块等丰富格式
@@ -66,7 +70,7 @@ HyperPaper 是一个专为学术研究设计的智能 PDF 阅读器，集成了 
 - **响应式布局**：适配不同屏幕尺寸
 
 ### 📊 公式与图表处理
-- **公式识别**：三种处理模式（仅识别、识别+翻译、识别+翻译+解释）
+- **公式识别**：三种处理模式（不处理公式、基于本地OCR+LLM API翻译、基于VLM API翻译）
 - **LaTeX 渲染**：完美支持数学公式显示
 - **图表理解**：AI 分析图表内容，提供解释
 
@@ -119,7 +123,7 @@ HyperPaper 是一个专为学术研究设计的智能 PDF 阅读器，集成了 
 ## 📦 快速开始
 
 ### 系统要求
-- macOS 12.0 或更高版本
+- macOS 26 或更高版本
 - Xcode 14.0 或更高版本（开发环境）
 
 ### 安装步骤
@@ -206,10 +210,10 @@ HyperPaper 提供了丰富的自定义选项：
 
 - **AI 模型选择**：根据需求选择不同的 AI 模型
 - **公式处理模式**：
-  - 仅识别：提取公式文本
-  - 识别+翻译：提取并翻译
-  - 识别+翻译+解释：完整处理流程
-- **翻译目标语言**：自定义翻译目标
+  - 不处理公式：直接提取文本，不进行公式识别
+  - 基于本地OCR处理公式：使用本地 Pix2Text 进行 OCR 识别，支持公式转 LaTeX
+  - 基于VLM API处理公式：使用 Vision API（如 Qwen-VL-Max）进行识别
+- **翻译目标语言**：自定义翻译目标语言
 - **注释颜色**：个性化标注颜色
 
 ---
@@ -232,6 +236,7 @@ HyperPaper 提供了丰富的自定义选项：
 - [ ] 云端同步
 - [ ] 插件系统
 - [ ] 移动端支持
+🔈 欢迎提交PR，一起完善HyperPaper！
 
 ---
 
