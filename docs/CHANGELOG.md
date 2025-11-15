@@ -1,6 +1,6 @@
 # Changelog
 
-**Language / 语言**: [🇨🇳 中文](CHANGELOG.md) | [🇬🇧 English](CHANGELOG_EN.md)
+**Language / 语言**: [🇬🇧 English](CHANGELOG.md) | [🇨🇳 中文](zh/CHANGELOG.md)
 
 All notable changes to this project will be documented in this file.
 

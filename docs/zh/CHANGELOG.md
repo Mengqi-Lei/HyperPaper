@@ -1,6 +1,6 @@
 # 更新日志
 
-**Language / 语言**: [🇨🇳 中文](CHANGELOG.md) | [🇬🇧 English](CHANGELOG_EN.md)
+**Language / 语言**: [🇬🇧 English](../CHANGELOG.md) | [🇨🇳 中文](CHANGELOG.md)
 
 所有重要的项目变更都会记录在此文件中。
 

@@ -1,6 +1,6 @@
 # 🚀 Quick Start Guide
 
-**Language / 语言**: [🇨🇳 中文](QUICK_START.md) | [🇬🇧 English](QUICK_START_EN.md)
+**Language / 语言**: [🇬🇧 English](QUICK_START.md) | [🇨🇳 中文](zh/QUICK_START.md)
 
 Welcome to HyperPaper! This guide will help you complete configuration and start using it in 5 minutes.
 
@@ -40,7 +40,7 @@ Or directly download the ZIP file and extract it.
 
 3. Save the file
 
-> 📖 For detailed configuration instructions, see [API_CONFIGURATION_EN.md](API_CONFIGURATION_EN.md)
+> 📖 For detailed configuration instructions, see [API_CONFIGURATION.md](API_CONFIGURATION.md)
 
 ### Step 3: Build and Run
 
@@ -140,9 +140,9 @@ git pull origin main
 ## 📚 More Resources
 
 - [Complete README](README_EN.md) - Detailed project introduction
-- [API Configuration Guide](API_CONFIGURATION_EN.md) - Detailed API configuration instructions
-- [Agent Feature Documentation](Agent_Feature_Documentation_EN.md) - Complete Agent feature documentation
-- [Contributing Guide](CONTRIBUTING_EN.md) - How to contribute to the project
+- [API Configuration Guide](API_CONFIGURATION.md) - Detailed API configuration instructions
+- [Agent Feature Documentation](Agent_Feature_Documentation.md) - Complete Agent feature documentation
+- [Contributing Guide](CONTRIBUTING.md) - How to contribute to the project
 
 ## 🎉 Start Using
 

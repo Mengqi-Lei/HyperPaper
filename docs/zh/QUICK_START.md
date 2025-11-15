@@ -1,6 +1,6 @@
 # 🚀 快速开始指南
 
-**Language / 语言**: [🇨🇳 中文](QUICK_START.md) | [🇬🇧 English](QUICK_START_EN.md)
+**Language / 语言**: [🇬🇧 English](../QUICK_START.md) | [🇨🇳 中文](QUICK_START.md)
 
 欢迎使用 HyperPaper！本指南将帮助你在 5 分钟内完成配置并开始使用。
 
@@ -40,7 +40,7 @@ cd HyperPaper
 
 3. 保存文件
 
-> 📖 详细配置说明请查看 [API_CONFIGURATION.md](API_CONFIGURATION.md)
+> 📖 详细配置说明请查看 [API 配置指南](API_CONFIGURATION.md)
 
 ### 步骤 3: 编译运行
 
@@ -141,7 +141,7 @@ git pull origin main
 
 - [完整 README](README.md) - 项目详细介绍
 - [API 配置指南](API_CONFIGURATION.md) - 详细的 API 配置说明
-- [Agent 功能说明](Agent功能详细说明文档.md) - Agent 功能的完整文档
+- [Agent 功能说明](Agent_Feature_Documentation.md) - Agent 功能的完整文档
 - [贡献指南](CONTRIBUTING.md) - 如何参与项目贡献
 
 ## 🎉 开始使用

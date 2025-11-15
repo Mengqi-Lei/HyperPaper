@@ -1,6 +1,6 @@
 # 🔑 API 配置指南
 
-**Language / 语言**: [🇨🇳 中文](API_CONFIGURATION.md) | [🇬🇧 English](API_CONFIGURATION_EN.md)
+**Language / 语言**: [🇬🇧 English](../API_CONFIGURATION.md) | [🇨🇳 中文](API_CONFIGURATION.md)
 
 在使用 HyperPaper 之前，你需要配置 API Key 才能使用 AI 问答和翻译功能。
 
@@ -89,7 +89,7 @@ A:
 
 ## 📚 相关文档
 
-- [Agent 功能详细说明文档](Agent功能详细说明文档.md) - 查看完整的配置说明章节
+- [Agent 功能详细说明文档](Agent_Feature_Documentation.md) - 查看完整的配置说明章节
 - [README.md](README.md) - 项目总体介绍
 - [CONTRIBUTING.md](CONTRIBUTING.md) - 贡献指南
 

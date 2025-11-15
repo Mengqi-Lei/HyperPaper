@@ -1,6 +1,6 @@
 # HyperPaper Agent Feature Detailed Documentation
 
-**Language / 语言**: [🇨🇳 中文](Agent功能详细说明文档.md) | [🇬🇧 English](Agent_Feature_Documentation_EN.md)
+**Language / 语言**: [🇬🇧 English](Agent_Feature_Documentation.md) | [🇨🇳 中文](zh/Agent_Feature_Documentation.md)
 
 **Version**: v1.0  
 **Author**: Mengqi Lei

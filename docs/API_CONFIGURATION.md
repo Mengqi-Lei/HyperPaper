@@ -1,6 +1,6 @@
 # 🔑 API Configuration Guide
 
-**Language / 语言**: [🇨🇳 中文](API_CONFIGURATION.md) | [🇬🇧 English](API_CONFIGURATION_EN.md)
+**Language / 语言**: [🇬🇧 English](API_CONFIGURATION.md) | [🇨🇳 中文](zh/API_CONFIGURATION.md)
 
 Before using HyperPaper, you need to configure an API Key to use AI Q&A and translation features.
 
@@ -89,9 +89,9 @@ A:
 
 ## 📚 Related Documentation
 
-- [Agent Feature Documentation](Agent_Feature_Documentation_EN.md) - See the complete configuration section
-- [README.md](README_EN.md) - Project overview
-- [CONTRIBUTING.md](CONTRIBUTING_EN.md) - Contributing guide
+- [Agent Feature Documentation](Agent_Feature_Documentation.md) - See the complete configuration section
+- [README](../README.md) - Project overview
+- [Contributing Guide](CONTRIBUTING.md) - Contributing guide
 
 ---
 

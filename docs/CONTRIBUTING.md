@@ -1,6 +1,6 @@
 # Contributing Guide
 
-**Language / 语言**: [🇨🇳 中文](CONTRIBUTING.md) | [🇬🇧 English](CONTRIBUTING_EN.md)
+**Language / 语言**: [🇬🇧 English](CONTRIBUTING.md) | [🇨🇳 中文](zh/CONTRIBUTING.md)
 
 Thank you for considering contributing to the HyperPaper project!
 
