@@ -43,6 +43,8 @@ HyperPaper is an intelligent PDF reader designed specifically for academic resea
 - **Context Understanding**: Provides accurate answers based on selected content
 - **Markdown Rendering**: Supports LaTeX formulas, code blocks, and rich formats
 
+![AI Q&A Feature](docs/assets/function-QA.jpg)
+
 ### 📸 Powerful OCR Capabilities
 - **Local OCR**: Local recognition engine based on Pix2Text, protecting privacy
 - **Formula Recognition**: Automatically recognizes mathematical formulas and converts them to LaTeX
@@ -55,6 +57,8 @@ HyperPaper is an intelligent PDF reader designed specifically for academic resea
 - **Target Language Selection**: Customize translation target language in preferences
 - **Silent Updates**: Translation results are automatically updated without manual refresh
 
+![Translation Feature](docs/assets/function-translate.jpg)
+
 ### ✏️ Rich Annotation System
 - **Text Annotation**: Highlight, underline, strikethrough
 - **Free Drawing**: Hand-drawn annotations, as you wish
@@ -62,6 +66,8 @@ HyperPaper is an intelligent PDF reader designed specifically for academic resea
 - **Text Comments**: Add text descriptions directly on PDF
 - **Color Customization**: Rich color selection, personalized annotations
 - **Secondary Editing**: All annotations support editing and deletion
+
+![Annotation Feature](docs/assets/function-notes.jpg)
 
 ### 🎨 Modern UI Design
 - **Liquid Glass Style**: Semi-transparent liquid glass effect, visually elegant
