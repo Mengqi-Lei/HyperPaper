@@ -1,0 +1,102 @@
+# 操作系统相关
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Desktop.ini
+
+# 编辑器相关
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.classpath
+.settings/
+*.sublime-project
+*.sublime-workspace
+
+# 日志文件
+*.log
+logs/
+*.log.*
+
+# 临时文件
+*.tmp
+*.temp
+*.bak
+*.backup
+*~
+
+# 依赖目录
+node_modules/
+venv/
+env/
+ENV/
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# 构建输出
+dist/
+build/
+*.egg-info/
+.eggs/
+
+# 环境变量文件
+.env
+.env.local
+.env.*.local
+
+# API密钥和敏感配置
+*API*.txt
+*api*.txt
+*key*.txt
+*secret*.txt
+Config.plist
+config.plist
+
+# 测试覆盖率
+.coverage
+htmlcov/
+.pytest_cache/
+.tox/
+
+# IDE和编辑器
+.idea/
+*.iml
+.vscode/
+*.code-workspace
+
+# Xcode 用户文件
+*.xcuserstate
+*.xcuserdatad/
+*.xcworkspace/xcuserdata/
+*.xcodeproj/xcuserdata/
+*.xcodeproj/project.xcworkspace/xcuserdata/
+
+# Xcode 构建文件
+build/
+DerivedData/
+*.xcworkspace/xcshareddata/
+*.xcodeproj/xcshareddata/
+
+# 其他
+*.orig
+*.rej
+.cache/
+*.class
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
