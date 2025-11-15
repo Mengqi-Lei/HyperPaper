@@ -308,7 +308,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 **⭐ If this project helps you, please give us a Star! ⭐**
 
-Made with ❤️ by the HyperPaper Team
-
 </div>
 

@@ -307,6 +307,4 @@ HyperPaper 提供了丰富的自定义选项：
 
 **⭐ 如果这个项目对你有帮助，请给我们一个 Star！⭐**
 
-Made with ❤️ by the HyperPaper Team
-
 </div>
