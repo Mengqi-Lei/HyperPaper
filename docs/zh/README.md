@@ -292,7 +292,6 @@ HyperPaper 提供了丰富的自定义选项：
 
 - [Qwen](https://github.com/QwenLM/Qwen) - 强大的大语言模型
 - [Pix2Text](https://github.com/breezedeus/Pix2Text) - 优秀的 OCR 工具
-- [SwiftUI](https://developer.apple.com/xcode/swiftui/) - 现代化的 UI 框架
 
 ---
 

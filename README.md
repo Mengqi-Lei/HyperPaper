@@ -293,7 +293,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 - [Qwen](https://github.com/QwenLM/Qwen) - Powerful large language model
 - [Pix2Text](https://github.com/breezedeus/Pix2Text) - Excellent OCR tool
-- [SwiftUI](https://developer.apple.com/xcode/swiftui/) - Modern UI framework
 
 ---
 
