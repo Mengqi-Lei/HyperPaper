@@ -78,21 +78,41 @@ HyperPaper is an intelligent PDF reader designed specifically for academic resea
 
 ## 🎬 Demo
 
-### Regional Q&A
+### 🤖 AI Features Demo
+
+Watch how HyperPaper's AI-powered features work:
+
+<video src="docs/assets/videos/hyperpaper-AI.mp4" controls width="100%"></video>
+
+*Features shown: Regional Q&A, OCR recognition, intelligent translation, and formula processing*
+
+### ✏️ Annotation Features Demo
+
+See HyperPaper's powerful annotation system in action:
+
+<video src="docs/assets/videos/hyperpaper-notes.mp4" controls width="100%"></video>
+
+*Features shown: Text annotation, highlighting, note-taking, and annotation management*
+
+---
+
+### Quick Feature Overview
+
+#### Regional Q&A
 ```
 1. Select any area in the paper
 2. Enter questions in the right-side Q&A panel
 3. AI provides accurate answers based on selected content
 ```
 
-### OCR Recognition
+#### OCR Recognition
 ```
 1. Select areas containing formulas or charts
 2. Automatically triggers OCR recognition
 3. Recognition results are automatically displayed, supporting translation and explanation
 ```
 
-### Intelligent Annotation
+#### Intelligent Annotation
 ```
 1. Select annotation tools (highlight/underline/strikethrough/draw/note/text)
 2. Annotate on PDF
