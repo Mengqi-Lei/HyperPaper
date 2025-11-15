@@ -82,7 +82,7 @@ HyperPaper 是一个专为学术研究设计的智能 PDF 阅读器，集成了 
 
 观看 HyperPaper 的 AI 功能演示：
 
-https://github.com/user-attachments/assets/hyperpaper-AI.mp4
+https://github.com/Mengqi-Lei/HyperPaper/releases/download/Demo-video-1080p/hyperpaper-AI.mp4
 
 *演示内容：区域问答、OCR 识别、智能翻译、公式处理*
 
@@ -90,7 +90,7 @@ https://github.com/user-attachments/assets/hyperpaper-AI.mp4
 
 观看 HyperPaper 强大的批注系统：
 
-https://github.com/user-attachments/assets/hyperpaper-notes.mp4
+https://github.com/Mengqi-Lei/HyperPaper/releases/download/Demo-video-1080p/hyperpaper-notes.mp4
 
 *演示内容：文本批注、高亮、笔记、批注管理*
 
